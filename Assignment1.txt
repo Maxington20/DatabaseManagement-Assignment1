@@ -1,0 +1,148 @@
+***QUESTION 1***
+ 
+code explanation               frenchExplanation
+---- ------------------------- -------------------------
+D    Discontinued              Abandonnées
+N    Normal                    À temps plein, actif
+S    Suspended                 Suspendue
+
+(3 row(s) affected)
+
+***QUESTION 2***
+ 
+number  academicStatusCode
+------- ------------------
+7826662 D
+5613716 D
+5582770 D
+5123120 D
+3223278 D
+2238665 D
+1335314 D
+
+(7 row(s) affected)
+
+***QUESTION 3***
+ 
+number  academicStatusCode
+------- ------------------
+1335314 D
+2238665 D
+3223278 D
+5123120 D
+5166111 S
+5473160 S
+5582770 D
+5613716 D
+5832548 S
+6484885 S
+7826662 D
+8412280 S
+8588766 S
+
+(13 row(s) affected)
+
+***QUESTION 4***
+ 
+number  academicStatusCode
+------- ------------------
+1335314 D
+2238665 D
+3223278 D
+5123120 D
+5166111 S
+5473160 S
+5582770 D
+5613716 D
+5832548 S
+6484885 S
+7826662 D
+8412280 S
+8588766 S
+
+(13 row(s) affected)
+
+***QUESTION 5***
+ 
+number  academicStatusCode
+------- ------------------
+1335314 D
+2238665 D
+3223278 D
+5123120 D
+5166111 S
+5473160 S
+5582770 D
+5613716 D
+5832548 S
+6484885 S
+7826662 D
+8412280 S
+8588766 S
+
+(13 row(s) affected)
+
+***QUESTION 6***
+ 
+countryCode
+-----------
+CAN
+CHN
+IND
+NGA
+POL
+USA
+
+(6 row(s) affected)
+
+***QUESTION 7***
+ 
+Incidental Fee Item                                          Current Fee           Increased Fee
+------------------------------------------------------------ --------------------- ---------------------------------------
+Administration Fee                                           20.60                 22.660000
+CSA Fee                                                      4.50                  4.950000
+CSI Association Fee - Doon Campus                            77.50                 85.250000
+CSI Capital Development Fee - Doon Campus                    52.77                 58.047000
+CSI Health Plan                                              185.68                204.248000
+Graduation/Alumni Services Fee                               18.56                 20.416000
+Recreation/Athletics Fee                                     63.17                 69.487000
+Student Priority Fee                                         45.46                 50.006000
+Technology Enhancement Fee                                   117.05                128.755000
+
+(9 row(s) affected)
+
+***QUESTION 8***
+ 
+CourseOfferingId studentNumber finalMark
+---------------- ------------- ----------------------
+9                3526415       53
+9                5767777       54
+9                5785845       50
+9                8653370       51
+19               1114453       52
+19               6471585       51
+19               8317323       54
+29               2866564       52
+29               3117777       53
+29               5727664       53
+29               8414815       53
+
+(11 row(s) affected)
+
+***QUESTION 9***
+ 
+number
+------
+2A220 
+
+(1 row(s) affected)
+
+***QUESTION 10***
+ 
+number
+-------
+6860242
+6886352
+8436780
+
+(3 row(s) affected)
